@@ -5,7 +5,6 @@ nombre_etage = gets.chomp.to_i
 
 
 # .each méthode pour définir mes plages selectionnées
-# .reject(&:even?) méthode pour exclure les nombres pairs
 # .center méthode pour centrer le texte
 
 
